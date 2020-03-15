@@ -1,3 +1,9 @@
+> :warning: Unfortunately Sonarqube has discontinued support for MySQL:
+> 
+> "Support for MySQL has been dropped in Data Center Edition and deprecated for all other editions." (https://groups.google.com/forum/#!topic/sonarqube/Xv4QmRk4Rik)
+> 
+> If you don't have to rely on it, I would recommend to use the integration with Postgre SQL. I'm sure there will be support for a long time to come. On the following website you can find more information about using PostgreSQL with Sonarqube on Docker https://github.com/SonarSource/docker-sonarqube/blob/master/recipes.md
+
 # Docker Compose file for Sonarqube with MySQL
 
 ## Installation
